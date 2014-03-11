@@ -28,7 +28,16 @@
 
 - (void)testExample
 {
+    
     XCTAssertTrue(2+2==4, @"2+2=4");
+
+}
+
+- (void)testAlternativeScheme
+{
+    
+    XCTAssertTrue(2+2==4, @"2+2=4");
+    
 }
 
 @end

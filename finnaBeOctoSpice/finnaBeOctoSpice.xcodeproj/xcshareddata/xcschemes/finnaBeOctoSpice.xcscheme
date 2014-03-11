@@ -37,6 +37,11 @@
                BlueprintName = "finnaBeOctoSpiceTests"
                ReferencedContainer = "container:finnaBeOctoSpice.xcodeproj">
             </BuildableReference>
+            <SkippedTests>
+               <Test
+                  Identifier = "finnaBeOctoSpiceTests/testAlternativeScheme">
+               </Test>
+            </SkippedTests>
          </TestableReference>
       </Testables>
       <MacroExpansion>
