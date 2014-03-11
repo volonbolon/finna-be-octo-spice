@@ -28,6 +28,21 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B05A51C818CF3DB8004666B6"
+               BuildableName = "finnaBeOctoSpiceTests.xctest"
+               BlueprintName = "finnaBeOctoSpiceTests"
+               ReferencedContainer = "container:finnaBeOctoSpice.xcodeproj">
+            </BuildableReference>
+            <SkippedTests>
+               <Test
+                  Identifier = "finnaBeOctoSpiceTests/testExample">
+               </Test>
+            </SkippedTests>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
